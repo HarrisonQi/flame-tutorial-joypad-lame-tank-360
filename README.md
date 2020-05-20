@@ -2,15 +2,24 @@
 
 Flame 屏幕手柄&#x2F;摇杆教程项目
 
-## Getting Started
+## 介绍
 
-This project is a starting point for a Flutter application.
+[官方教程地址](https://www.bugcatt.com/archives/1152) (2020.5.21发布)
 
-A few resources to get you started if this is your first Flutter project:
+在你的flame游戏中添加屏幕摇杆吧!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 相关
+flame教程仓库:
+[flame-tutorial-langaw](https://github.com/HarrisonQi/flame-tutorial-langaw)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+本系列其他教程:
+- [Flutter游戏开发(flame) 00 Flame介绍](https://blog.bugcatt.com/archives/279)
+- [Flutter 游戏开发(flame) 01 开发2D休闲游戏：消灭小飞蝇(1/5)](https://blog.bugcatt.com/archives/292)
+- [Flutter 游戏开发(flame) 02 图形和动画(2/5)](https://blog.bugcatt.com/archives/560)
+- [Flutter 游戏开发(flame) 03 界面和弹窗(3/5)](https://blog.bugcatt.com/archives/562)
+- [Flutter 游戏开发(flame) 04 分数, 存档和音效(4/5)](https://blog.bugcatt.com/archives/564)
+- [Flutter 游戏开发(flame) 05 收尾和打包(5/5)](https://blog.bugcatt.com/archives/731)
+
+
+## 感谢
+- [JapAlekhin](https://jap.alekhin.io/)的文章[On-screen joystick/joypad game controller with Flame](https://jap.alekhin.io/onscreen-joystick-joypad-controller-flame-game)
